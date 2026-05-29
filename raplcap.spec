@@ -2,7 +2,7 @@ Summary:	C interface for getting/setting power caps with Intel RAPL
 Summary(pl.UTF-8):	Interfejs C do odczytu/zapisu ograniczeń energii przy użyciu Intel RAPL
 Name:		raplcap
 Version:	0.5.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Applications/System
 #Source0Download: https://github.com/powercap/raplcap/releases
